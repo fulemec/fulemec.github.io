@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fulemec.github.io/sitemap.html.gz
+Sitemap: https://fulemec.github.io/app/sitemap.html.gz
+Sitemap: https://fulemec.github.io/assets/sitemap.html.gz
+Sitemap: https://fulemec.github.io/css/sitemap.html.gz
+Sitemap: https://fulemec.github.io/includes/sitemap.html.gz
+Sitemap: https://fulemec.github.io/item/sitemap.html.gz
+Sitemap: https://fulemec.github.io/src/sitemap.html.gz
